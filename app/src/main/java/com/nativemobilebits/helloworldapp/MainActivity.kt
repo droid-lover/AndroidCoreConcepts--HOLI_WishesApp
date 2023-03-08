@@ -5,7 +5,10 @@ import android.os.Bundle
 import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
-
+/**
+ * Native Mobile Bits
+ * https://www.youtube.com/c/NativeMobileBits
+ */
 class MainActivity : AppCompatActivity() {
 
     lateinit var tvOne :TextView

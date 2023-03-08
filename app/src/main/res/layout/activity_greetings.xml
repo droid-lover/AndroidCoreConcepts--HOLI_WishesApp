@@ -9,8 +9,7 @@
     <ImageView
         android:id="@+id/ivGreeting"
         android:layout_width="match_parent"
-        android:src="@drawable/eleven" n
-        Z
+        android:src="@drawable/eleven"
         android:scaleType="centerCrop"
         android:layout_height="match_parent" />
 
