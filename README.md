@@ -13,6 +13,8 @@ We will learn core concepts of Android Applications development in this video.</
 ⭐ How we can navigate between screens using Navigations</br>
 ⭐ One Complete Project App - we will make an app to wish user HOLI and show some interactive beautiful flow in app while our app interacts with user.</br>
 
+Video LINK : https://www.youtube.com/watch?v=LCZOMAkYy7c
+
 By the end of this video, you should be able to create beautiful UIs and applications 😎 & user will be able to interact with your apps ✅
 
 </br></br>
