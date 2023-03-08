@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GreetingsActivity">
+
+    <ImageView
+        android:id="@+id/ivGreeting"
+        android:layout_width="match_parent"
+        android:src="@drawable/eleven" n
+        Z
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tvWishes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp"
+        android:text="@string/happy_holi_wishes"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:textSize="40sp"
+        android:textColor="@color/white"/>
+
+</FrameLayout>
